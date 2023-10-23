@@ -45,6 +45,10 @@ namespace DelegatesDemo
                 return a / b;
 
             }
+             public void display()
+            {
+                Console.WriteLine("first");
+            }
 
 
 
